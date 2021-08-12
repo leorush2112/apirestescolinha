@@ -1,4 +1,4 @@
-package com.iron.escolinha;
+package com.iron.escolinha.service;
 
 import java.time.LocalDate;
 import java.time.Period;
